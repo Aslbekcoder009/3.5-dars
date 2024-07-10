@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.ota{
+    display: flex;
+width: 1300px;
+    gap: 50px;
+    margin: 0px auto;
+    margin-top: 150px;
+}
+.bola{
+    width: 400px;
+    height: 500px;
+    box-shadow: 3px 2px 5px black;
+}
+.bola:hover{
+    box-shadow: 0px 2px 5px 5px green;
+}
+.kkl{
+ width: 150px;
+ height: 150px;
+ margin-left: 30px;
+ margin-top: 20px;
+}
+.h1{
+margin-left: 30px;
+color: rgb(29, 15, 148);
+}
+.p{
+font-weight:500;
+    margin-left: 30px;
+
+
+}
